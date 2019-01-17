@@ -9,8 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.techprimers.security</groupId>
-	<artifactId>spring-security-client</artifactId>
-	<version>0.1.2-SNAPSHOT</version>
+	<artifactId>spring-security-client</artifactId>	
 	<name>spring-security-client</name>
 	<description>Demo project for Spring Boot</description>
 
